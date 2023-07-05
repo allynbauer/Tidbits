@@ -1,0 +1,6 @@
+# Allyn Bauer
+# 29 September 2008
+magic_string: netwk2008
+port: 2000
+delimiter: " "
+host: 127.0.0.1
